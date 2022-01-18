@@ -1,0 +1,2 @@
+C:\Users\demir\source\repos\EUB201FinalProjesi\EUB201FinalProjesi\obj\Debug\EUB201FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\EUB201FinalProjesi\EUB201FinalProjesi\obj\Debug\EUB201FinalProjesi.csproj.CoreCompileInputs.cache
